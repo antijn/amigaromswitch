@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AT27C400
+D EPROM 16bit
+K EPROM 16bit
+$ENDCMP
+#
+#End Doc Library
